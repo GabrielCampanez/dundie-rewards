@@ -7,8 +7,7 @@ setup(
     description="Reward Point System for Dunder Mifflin",
     author="Gabriel Campanez",
     packages=find_packages(),
-<<<<<<< HEAD
-=======
+
     entry_points={
         "console_scripts": [
             "dundie = dundie.__main__:main"
