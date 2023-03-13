@@ -13,5 +13,4 @@ setup(
             "dundie = dundie.__main__:main"
         ]
     }
->>>>>>> turned to installable binary #9
 )
